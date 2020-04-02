@@ -34,7 +34,7 @@ ________________________________________________________________________________
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>COMMITTING TO A REPOSITORY AND OTHERS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-*  git comment -m"YOUR COMMIT" 
+*  git commit -m"YOUR COMMIT" 
 
 *  git checkout                    ==>TO REVERT ALL CHANCES  TILL LAST COMMIT
 
